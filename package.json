@@ -1,0 +1,25 @@
+{
+  "name": "discord-vanity-checker",
+  "version": "1.0.0",
+  "description": "Simple discord vanity URL checker.",
+  "author": "znixbtw",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "https://github.com/znixbtw/discord-vanity-checker.git",
+  "bugs": "https://github.com/znixbtw/discord-vanity-checker/issues",
+  "homepage": "https://github.com/znixbtw/discord-vanity-checker#readme",
+  "keywords": [
+    "discord",
+    "vanity",
+    "checker",
+    "vanity",
+    "checker",
+    "nitro"
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
